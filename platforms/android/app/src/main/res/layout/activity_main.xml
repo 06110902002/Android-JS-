@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <Button
+        android:id="@+id/testCallJs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TestCallJs"/>
+
+    <org.apache.cordova.engine.SystemWebView
+        android:id="@+id/cordov_webView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+
+    <Button
+        android:id="@+id/testJSBridge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TestCallJs"/>
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+</LinearLayout>

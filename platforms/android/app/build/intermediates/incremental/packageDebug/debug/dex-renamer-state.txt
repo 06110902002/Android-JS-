@@ -1,0 +1,4 @@
+#Tue Sep 04 20:11:09 CST 2018
+base.0=/Users/liuxiaobing/Documents/demo/android_demo/Cordovar/hello/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/liuxiaobing/Documents/demo/android_demo/Cordovar/hello/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
